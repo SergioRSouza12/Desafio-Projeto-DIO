@@ -1,4 +1,5 @@
 # Desafio-Projeto-DIO
-Aréa destinada a desafios de projetos da DIO, iniciado minha jornada com JAVA. 
+## Helo World :earth_americas: 
 
+Aréa destinada a desafios de projetos da DIO, iniciado minha jornada com JAVA. :desktop_computer: 
 
